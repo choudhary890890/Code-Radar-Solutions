@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int=a,b;
-    scanf("%d", &a,b);
-    printf("You entered:a is %d and b is %d", a,b);
+    int=num1, num2;
+    scanf("%d %d", &num1,num2);
+    printf("You entered: %d and  %d", num1,num2);
     return 0;
 }
