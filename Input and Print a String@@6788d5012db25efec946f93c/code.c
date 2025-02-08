@@ -4,5 +4,5 @@ int main()
 {
     char word;
     scanf("%s", &word);
-    printf("Ypu entered:%s", word);
+    printf("You entered:%s", word);
 }
