@@ -2,7 +2,7 @@
 
 int main()
 {
-    char ch1,ch2;
-    scanf("cc", &ch1,&ch2);
-    printf("ASCII value:%d\n", ch1,ch2);
+    char ch1;
+    scanf("%c", &ch1);
+    printf("ASCII value:%d\n", ch1);
 }
