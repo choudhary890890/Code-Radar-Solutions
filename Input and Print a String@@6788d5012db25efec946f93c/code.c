@@ -2,7 +2,7 @@
 
 int main()
 {
-    char world;
+    str world;
     scanf("%s", &world);
     printf("You entered:%s", world);
 }
