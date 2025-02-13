@@ -1,4 +1,4 @@
-#include <dtdio.h>
+#include <stdio.h>
 int main()
 float a;
 printf(enter floating point number);
