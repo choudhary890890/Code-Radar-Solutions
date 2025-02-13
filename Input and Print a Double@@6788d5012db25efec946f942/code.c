@@ -2,7 +2,7 @@
 int main(){
 double a;
 printf("enter a double precesion floating point number:");
-scanf("%f %f",&a);
-printf("You entered:%f %f\n", a);
+scanf("1%f",&a);
+printf("You entered:%.41f\n", a);
 return 0;
 }
