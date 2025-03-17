@@ -3,5 +3,10 @@ int main(){
     int year;
     printf("enter a year :");
     scanf("%d", &year);
-    if ()
+    if((year %4==0 && year %100 ! =0 )||(year %400==0)){
+        printf("%d is leap year.\n");
+    }
+    else("%d is not leap year. \n");
+
+    return 0;
 }
