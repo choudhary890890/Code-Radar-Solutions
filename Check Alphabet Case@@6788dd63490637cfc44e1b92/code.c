@@ -7,7 +7,7 @@ int main(){
         printf("%c, Uppercase\n");
     }
     else if(islower(letter)){
-        prinf("%c, Lowercase\n");
+        printf("%c, Lowercase\n");
     }
     else("Not an alphabet\n")
     return 0;
