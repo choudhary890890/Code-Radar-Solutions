@@ -9,7 +9,9 @@ int main(){
     else if(islower(letter)){
         printf("Lowercase\n");
     }
-    else("Not an alphabet\n");
+    else{
+
+    }[rintf]("Not an alphabet\n");
 
     return 0;
 }
