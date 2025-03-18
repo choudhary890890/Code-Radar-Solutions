@@ -2,7 +2,7 @@
 int main(){
     char letter;
     scanf("%C", &letter);
-    if(isuper(letter)){
+    if( isupper(letter)){
         printf("%c, Uppercase\n");
     }
     else if(islower(letter)){
