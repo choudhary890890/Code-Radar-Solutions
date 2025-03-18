@@ -9,4 +9,5 @@ int main(){
         prinf("%c, Lowercase\n");
     }
     else("Not an alphabet\n")
+    return 0;
 }
