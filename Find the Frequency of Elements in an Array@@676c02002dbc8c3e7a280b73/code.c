@@ -34,4 +34,4 @@
          printf("%d %d",rem[i],val);
          printf("\n");
      }
-     return 0;
+    
