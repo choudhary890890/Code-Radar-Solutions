@@ -14,5 +14,6 @@ int main(){
         a=a+2;
         printf("\n");
     }
+    return 0;
 
 }
